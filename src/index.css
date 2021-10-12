@@ -1,0 +1,7 @@
+/*
+Importing tailwindcss libs to the project
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
